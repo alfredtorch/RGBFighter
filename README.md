@@ -1,5 +1,5 @@
 # RGBFighter
-Small ESP8266 Board for addressable Pixel Control
+Micro ESP-01 board for addressable pixel control
 
 * Small footprint +- 14x32mm
 * ESP8266 based
