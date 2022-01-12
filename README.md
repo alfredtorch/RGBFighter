@@ -18,4 +18,4 @@ Top
 Bottom
 
 # Contributions
-Inspiration from Adafruit, Sparkfun
+Inspirations from Adafruit, Sparkfun
