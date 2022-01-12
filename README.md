@@ -9,4 +9,5 @@ Micro ESP-01 board for addressable pixel control
 * Support for One Button OR IR Receiver
 * WLED compatible
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](images/WidgetEsp8266RGBv4StripBottom.png?raw=true "Bottom PCB")
+![Alt text](images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true "Bottom PCB")
