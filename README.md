@@ -7,6 +7,6 @@ Micro ESP-01 board for addressable pixel control
 * Connection over 2,54 mm 3 Pin for direct soldering, jst or screw terminal
 * Power and Progamming over USB (CP2102 nodeMCU design)
 * Support for One Button OR IR Receiver
-* Wled compatible
+* WLED compatible
 
-
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
