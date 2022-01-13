@@ -1,5 +1,5 @@
 # RGBFighter
-Micro ESP-01 board for addressable pixel control, suits to every place!
+Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
 
 * Small footprint +- 14x32mm
 * ESP8266 based
