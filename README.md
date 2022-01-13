@@ -14,9 +14,9 @@ Designed in Eagle.
 
 # PCB Layout
 <img src="images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true" width="400" align="center">
-H3 Top
+### Top
 <img src="images/WidgetEsp8266RGBv4StripBottom.png?raw=true" width="400" align="center">
-H3 Bottom
+### Bottom
 
 # Contributions
 Inspirations from Adafruit, Sparkfun
