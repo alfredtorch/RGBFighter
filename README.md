@@ -13,9 +13,13 @@ Micro ESP-01 board for addressable pixel control, suits to every place and mostl
 Designed in Eagle.
 
 # PCB Layout
+
 <img src="images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true" width="400" align="center">
+
 ## Top
+
 <img src="images/WidgetEsp8266RGBv4StripBottom.png?raw=true" width="400" align="center">
+
 ## Bottom
 
 # Contributions
