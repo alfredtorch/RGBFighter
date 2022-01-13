@@ -25,6 +25,11 @@ Designed in Eagle.
 # Contributions
 Inspirations from Adafruit, Sparkfun
 
+# First Step
+
+## Hardware
+## Software
+
 # Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
 <img src="images/IrControl.jpg?raw=true" align="center">
