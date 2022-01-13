@@ -26,4 +26,9 @@ Inspirations from Adafruit, Sparkfun
 <img src="images/IrControl.jpg?raw=true" align="center">
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
-USB Power Injector to connect to the last pixel.
+# Accessories
+USB Power Injector to connect to the last pixel
+Magnetic Tap
+Mounting Plates for Panels
+
+# Licence
