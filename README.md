@@ -14,9 +14,9 @@ Designed in Eagle.
 
 # PCB Layout
 <img src="images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true" width="400" align="center">
-Top
+H3 Top
 <img src="images/WidgetEsp8266RGBv4StripBottom.png?raw=true" width="400" align="center">
-Bottom
+H3 Bottom
 
 # Contributions
 Inspirations from Adafruit, Sparkfun
@@ -27,8 +27,11 @@ Inspirations from Adafruit, Sparkfun
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
 # Accessories
-USB Power Injector to connect to the last pixel
-Magnetic Tap
-Mounting Plates for Panels
+* USB Power Injector to connect to the last pixel
+* Magnetic Tap
+* Panel Storage
+* Mounting Plates for Panels
+
+---
 
 # Licence
