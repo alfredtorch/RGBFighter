@@ -1,4 +1,4 @@
-<img src="images/Banner.png?raw=true" width="600" align="center">
+<img src="images/Banner.jpg?raw=true">
 
 # RGBFighter
 Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
