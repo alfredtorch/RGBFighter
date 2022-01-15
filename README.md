@@ -7,7 +7,7 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 * ESP8266 based (Support for Arduino)
 * Designed for common LED Strips like WS2812 with level shifting
 * Connection over 2,54 mm 3 Pin for direct soldering, JST or screw terminal (Version Strip or Panel)
-* Power and Progamming over USB (CP2102 nodeMCU design)
+* Power and Progamming over USB (CP2104 nodeMCU design)
 * User Input for One Button OR IR Receiver
 * [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
 * Inspirations from Adafruit, Sparkfun and many others
@@ -57,6 +57,20 @@ Prices are approx. Affilates Links on Amazon and Dirty Cheap
 
 # First Steps & Ideas
 
+⚠️Don't mess with the power - no polarity or whatever protection ⚠️
+⚠️Vertical USB is fragile - Handle with care ⚠️
+
+## Pinout
+Pin | Function
+--- | ---
+GPIO0 | Button Or InfraRed
+GPIO2 | RGB Output | Recommanded from WLed
+
+## Programming
+
+You directly check the [How-To from WLed](https://kno.wled.ge/basics/install-binary/)
+
+## Tutorials
 ** Soon updates for Hardware & Software ***
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
