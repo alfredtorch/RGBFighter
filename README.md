@@ -12,7 +12,7 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 * [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
 * Inspirations from Adafruit, Sparkfun and many others
 
-Designed in Eagle, in a messy way! Sorry
+Designed in Eagle, in a messy way! Sorry!
 
 # PCB Layout
 <img src="images/BottomBoard.jpg?raw=true" align="center">
@@ -24,7 +24,7 @@ At the moment I have no possibility for a larger production and distribution. Of
 
 For DIY'er:
 All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
-The thickness of the board 1,2mm are required in order to sold the vertical USB firmly. The parts can be easily ordered.
+The thickness of the board should be 1,2mm in order to sold the vertical USB firmly. The parts can be easily ordered from the common suppliers.
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
@@ -77,7 +77,7 @@ You directly check the [How-To from WLed](https://kno.wled.ge/basics/install-bin
 <img src="images/PowerBank.jpg?raw=true" align="center">
 <img src="images/MagneticStrip.jpg?raw=true" align="center">
 
-Servo
+Servo/Electro-Dipped
 
 ---
 
