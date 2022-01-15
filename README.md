@@ -10,16 +10,13 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 * Power and Progamming over USB (CP2102 nodeMCU design)
 * User Input for One Button OR IR Receiver
 * [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
-
+* Inspirations from Adafruit, Sparkfun and many others
 
 Designed in Eagle.
 
 # PCB Layout
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
-
-# Contributions
-Inspirations from Adafruit, Sparkfun
 
 # First Step
 
@@ -32,9 +29,8 @@ Inspirations from Adafruit, Sparkfun
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
 # Accessories
-* USB Power Injector to connect to the last pixel
-* Panel Storage
 <img src="images/StorageBox.jpg?raw=true" align="center">
+<img src="images/USBPowerInjector.jpg?raw=true" align="center">
 <img src="images/LaserParts.jpg?raw=true" align="center">
 <img src="images/8PowerRail.jpg?raw=true" align="center">
 
@@ -46,9 +42,6 @@ Soon updates
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
 <img src="images/MagneticStrip.jpg?raw=true" align="center">
-
-Inspiration from : 
-* Adafruit, Sparkfun and many others (please pm if I missed someone)
 
 ---
 
