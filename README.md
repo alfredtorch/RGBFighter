@@ -18,10 +18,11 @@ Designed in Eagle.
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
 
-# First Step
-
-## Hardware
-## Software
+# Parts & BoM
+Part Name | Quantity | Price | Supply Link
+ESP-01 | 1 | 2€ | Aliexpress
+CP2104 USB Controller | 1 | 3€ | Mouser, ...
+USB Vertical | 1 | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
 
 # Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
@@ -34,9 +35,9 @@ Designed in Eagle.
 <img src="images/LaserParts.jpg?raw=true" align="center">
 <img src="images/8PowerRail.jpg?raw=true" align="center">
 
-# Use Cases
+# Use Cases & First Steps
 
-***Soon updates
+** Soon updates for Hardware & Software **
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
