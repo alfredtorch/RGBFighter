@@ -12,7 +12,7 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 * [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
 * Inspirations from Adafruit, Sparkfun and many others
 
-Designed in Eagle.
+Designed in Eagle, in a messy way! Sorry
 
 # PCB Layout
 <img src="images/BottomBoard.jpg?raw=true" align="center">
