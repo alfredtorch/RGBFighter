@@ -89,7 +89,7 @@ GPIO2 | RGB Output | Recomanded Output from WLED
 You can directly check the [How-To from WLED](https://kno.wled.ge/basics/install-binary/)
 
 ## 🪛 Tutorials
-see [Tutorials Page](https://github.com/alfredtorch/RGBFighter/master/Tutorial.md)
+see [Tutorials Page](https://github.com/alfredtorch/RGBFighter/master/Tutorials.md)
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
