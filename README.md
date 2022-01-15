@@ -18,13 +18,15 @@ Designed in Eagle, in a messy way! Sorry!
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
 
-# Parts & BoM
+# Hardware
 
-At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.
+At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. Happy to get any proposition.
 
-For DIY'er:
+## For DIY'er:
 All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
 The thickness of the board should be 1,2mm in order to sold the vertical USB firmly. The parts can be easily ordered from the common suppliers.
+
+## BOM
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
