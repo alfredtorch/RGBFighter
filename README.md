@@ -38,7 +38,9 @@ Designed in Eagle.
 * 8Strips Power Rail (Screw Terminal or XT30 - able to drive WS2815 on 12V)
 
 # Use Cases
-Soon updates
+
+***Soon updates
+
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
 <img src="images/MagneticStrip.jpg?raw=true" align="center">
