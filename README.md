@@ -63,17 +63,18 @@ Most of these parts can be laser cutted. The related files are available under :
 # First Steps & Ideas
 
 ⚠️Don't mess with the power - no polarity or whatever protection ⚠️
+
 ⚠️Vertical USB is fragile - Handle with care ⚠️
 
 ## Pinout
 Pin | Function
 --- | ---
 GPIO0 | Button Or InfraRed
-GPIO2 | RGB Output | Recommanded from WLed
+GPIO2 | RGB Output | Recomanded Output from WLED
 
 ## Programming
 
-You directly check the [How-To from WLed](https://kno.wled.ge/basics/install-binary/)
+You can directly check the [How-To from WLED](https://kno.wled.ge/basics/install-binary/)
 
 ## Tutorials
 ** Soon updates for Hardware & Software ***
