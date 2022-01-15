@@ -3,7 +3,7 @@
 Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
 Only a power bank and a smartphone are needed and you are ready to go with your mobile setup.
 
-* Small footprint : +- 14x32mm & Lightweight +- 4gr
+* Small : +- 14x32mm & Lightweight : +- 4gr
 * ESP8266 based (Support for Arduino)
 * Designed for common LED Strips like WS2812 with level shifting
 * Connection over 2,54 mm 3 Pin for direct soldering, JST or screw terminal (Version Strip or Panel)
@@ -15,11 +15,11 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 Designed in Eagle.
 
 # PCB Layout
+<img src="images/BottomBoard.jpg?raw=true" width="400" align="center">
+<img src="images/TopBoard.jpg?raw=true" width="400" align="center">
 
 <img src="images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true" width="400" align="center">
-
 ## Top
-
 <img src="images/WidgetEsp8266RGBv4StripBottom.png?raw=true" width="400" align="center">
 
 ## Bottom
@@ -40,15 +40,18 @@ Inspirations from Adafruit, Sparkfun
 # Accessories
 * USB Power Injector to connect to the last pixel
 * Panel Storage
+<img src="images/StorageBox.jpg?raw=true" align="center">
+<img src="images/LaserParts.jpg?raw=true" align="center">
+<img src="images/8PowerRail.jpg?raw=true" align="center">
+
 * Mounting Plates for Panels
 * 8Strips Power Rail (Screw Terminal or XT30 - able to drive WS2815 on 12V)
 
 # Use Cases
-* Cheap PAR Light
-Needs:
-Par Light
-
-* Magnetic Tape
+Soon updates
+<img src="images/8x8Projector.jpg?raw=true" align="center">
+<img src="images/PowerBank.jpg?raw=true" align="center">
+<img src="images/MagneticStrip.jpg?raw=true" align="center">
 
 Inspiration from : 
 * Adafruit, Sparkfun and many others (please pm if I missed someone)
