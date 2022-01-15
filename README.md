@@ -15,14 +15,8 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 Designed in Eagle.
 
 # PCB Layout
-<img src="images/BottomBoard.jpg?raw=true" width="400" align="center">
-<img src="images/TopBoard.jpg?raw=true" width="400" align="center">
-
-<img src="images/WidgetEsp8266RGBv4StripTOPNoID.png?raw=true" width="400" align="center">
-## Top
-<img src="images/WidgetEsp8266RGBv4StripBottom.png?raw=true" width="400" align="center">
-
-## Bottom
+<img src="images/BottomBoard.jpg?raw=true" align="center">
+<img src="images/TopBoard.jpg?raw=true" align="center">
 
 # Contributions
 Inspirations from Adafruit, Sparkfun
