@@ -20,17 +20,19 @@ Designed in Eagle.
 
 # Parts & BoM
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
-
-Part Name | Quantity | Price | Supply Link
---- | --- | --- | ---
+Part Name | Quantity | Price | Supply Link | Remarks 
+--- | --- | --- | --- | ---
 ESP-01 | 1x | 2€ | Aliexpress
 CP2104 USB Controller | 1x | 3€ | Mouser, ...
-USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
+Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
+Resistor Array 10k | 2x | 0,2€ | Mouser, ...
+Capacitor 10uF | 2x | 0,2€ | Mouser, ...
+Inducator 10uF | 2x | 0,2€ | Mouser, ...
+LM3671 10uF | 2x | 0,2€ | Mouser, ...
+Level Shifter 10uF | 2x | 0,2€ | Mouser, ...
+Button | 2x | 0,2€ | Mouser, ...
+IR Receiver | 2x | 0,2€ | Mouser, ... | 
 
 # Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
@@ -45,7 +47,7 @@ USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/3276342
 
 # Use Cases & First Steps
 
-** Soon updates for Hardware & Software **
+** Soon updates for Hardware & Software ***
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
