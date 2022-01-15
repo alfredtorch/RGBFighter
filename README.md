@@ -1,6 +1,6 @@
 <img src="images/Banner.jpg?raw=true">
 
-Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
+🚥 Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
 Only a power bank and a smartphone are needed and you are ready to go with your mobile setup.
 
 * Small : +- 14x32mm & Lightweight : +- 4gr
@@ -20,11 +20,11 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 <img src="images/TopBoard.jpg?raw=true" align="center">
 
 
-# Hardware
+🔦 # Hardware
 
 At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. Happy to get any proposition.
 
-## Design Files
+## 🗺 Design Files
 
 Designed in Eagle, in a messy way! Sorry! The related files are available under /Hardware.
 Name | Description 
@@ -35,7 +35,7 @@ IR | Strip and IR Receiver
 PowerRail | Power for 8 Strips
 PowerDistributorX30 | 5 Ports XT-30 Connector
 
-## For DIY'er:
+## 🛠 For DIY'er:
 All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
 The thickness of the board should be 1,2mm in order to sold the vertical USB firmly. The parts can be easily ordered from the common suppliers.
 
@@ -59,12 +59,12 @@ IR Receiver | 1x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/40001843
 
 Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
 
-# Versions
+# 🎆 Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
 <img src="images/IrControl.jpg?raw=true" align="center">
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
-# Accessories
+# 🛒 Accessories
 
 Most of these parts can be laser cutted. The related files are available under Hardware/RGBFighterLaserParts.dxf
 
@@ -73,24 +73,23 @@ Most of these parts can be laser cutted. The related files are available under H
 <img src="images/LaserParts.jpg?raw=true" align="center">
 <img src="images/8PowerRail.jpg?raw=true" align="center">
 
-# First Steps & Ideas
+# 👶🏼 First Steps & Ideas
 
 ⚠️Don't mess with the power - no polarity or whatever protection ⚠️
 
 ⚠️Vertical USB is fragile - Handle with care ⚠️
 
-## Pinout
+## 🤏🏽 Pinout
 Pin | Function
 --- | ---
 GPIO0 | Button Or InfraRed
 GPIO2 | RGB Output | Recomanded Output from WLED
 
-## Programming
-
+## 💾 Programming
 You can directly check the [How-To from WLED](https://kno.wled.ge/basics/install-binary/)
 
-## Tutorials
-'Soon updates for Hardware & Software'
+## 🪛 Tutorials
+see [Tutorials Page](https://github.com/alfredtorch/RGBFighter/master/Tutorial.md)
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
@@ -100,7 +99,7 @@ Servo, Electro-Dipped, ...
 
 ---
 
-# Licence
+# ⚖️ Licence
 The MIT License (MIT)
 
 Copyright (c) 2021 Max Schmit
