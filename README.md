@@ -50,6 +50,9 @@ Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
 # Accessories
+
+Most of these parts can be laser cutted. The related files are available under : Hardware/RGBFighterLaserParts.dxf
+
 <img src="images/StorageBox.jpg?raw=true" align="center">
 <img src="images/USBPowerInjector.jpg?raw=true" align="center">
 <img src="images/LaserParts.jpg?raw=true" align="center">
