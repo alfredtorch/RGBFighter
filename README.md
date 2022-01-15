@@ -34,9 +34,6 @@ Designed in Eagle.
 <img src="images/LaserParts.jpg?raw=true" align="center">
 <img src="images/8PowerRail.jpg?raw=true" align="center">
 
-* Mounting Plates for Panels
-* 8Strips Power Rail (Screw Terminal or XT30 - able to drive WS2815 on 12V)
-
 # Use Cases
 
 ***Soon updates
