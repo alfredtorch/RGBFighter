@@ -8,7 +8,8 @@ Micro ESP-01 board for addressable pixel control, suits to every place and mostl
 * Connection over 2,54 mm 3 Pin for direct soldering, JST or screw terminal (Version Strip or Panel)
 * Power and Progamming over USB (CP2102 nodeMCU design)
 * Support for One Button OR IR Receiver
-* WLED compatible
+* [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
+
 
 Designed in Eagle.
 
@@ -39,10 +40,18 @@ Inspirations from Adafruit, Sparkfun
 * USB Power Injector to connect to the last pixel
 * Panel Storage
 * Mounting Plates for Panels
+* 8Strips Power Rail (Screw Terminal or XT30 - able to drive WS2815 on 12V)
 
 # Use Cases
-* PAR Light
+* Cheap PAR Light
+Needs:
+Par Light
+
 * Magnetic Tape
+
+Inspiration from : 
+* Adafruit, Sparkfun and many others (please pm if I missed someone)
+
 ---
 
 # Licence
