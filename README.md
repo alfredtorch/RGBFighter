@@ -1,7 +1,7 @@
 <img src="images/Banner.jpg?raw=true">
 
 🚥 Micro ESP-01 board for addressable pixel control 🚥 ... suits to every place and mostly to any needs!
-Only a power bank and a smartphone are needed and you are ready to go with your mobile setup.
+Only a power bank and a smartphone are needed and you're good to go with your mobile setup.
 
 * Small : +- 14x32mm & Lightweight : +- 4gr
 * ESP8266 based (Support for Arduino)
