@@ -1,6 +1,6 @@
 <img src="images/Banner.jpg?raw=true">
 
-🚥 Micro ESP-01 board for addressable pixel control, suits to every place and mostly to any needs!
+🚥 Micro ESP-01 board for addressable pixel control 🚥 ... suits to every place and mostly to any needs!
 Only a power bank and a smartphone are needed and you are ready to go with your mobile setup.
 
 * Small : +- 14x32mm & Lightweight : +- 4gr
@@ -20,7 +20,7 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 <img src="images/TopBoard.jpg?raw=true" align="center">
 
 
-🔦 # Hardware
+# 🔦 Hardware
 
 At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. Happy to get any proposition.
 
