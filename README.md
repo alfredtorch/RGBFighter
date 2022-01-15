@@ -14,6 +14,8 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 
 Designed in Eagle, in a messy way! Sorry!
 
+<img src="images/RGBFighterFamily.jpg?raw=true">
+
 # PCB Layout
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
