@@ -21,29 +21,28 @@ Designed in Eagle, in a messy way! Sorry
 # Parts & BoM
 
 At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production.
-All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
 
-The thickness of the board 1,2mm are required in order to sold the vertical USB firmly.
+For DIY'er:
+All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
+The thickness of the board 1,2mm are required in order to sold the vertical USB firmly. The parts can be easily ordered.
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
-Board RGBFighter | 1 | 0,02€ | [DirtyCheapPCB](https://dirtypcbs.com/store/pcbs/buy/108056/rgborder10x10january2019-zip)
+Board RGBFighter | 1 | 0,02€ | [DirtyCheapPCB](https://dirtypcbs.com/store/pcbs/buy/108056/rgborder10x10january2019-zip) | Panelised Design files of Panel-Strip-USB Versions
 ESP-01 MCU | 1x | 2€ | [Amazon](https://amzn.to/3qxXip7) | The brain
 CP2104 USB Controller | 1x | 3€ | Mouser, ... | need for progamming : alternative [ESP-01 Flasher](https://amzn.to/3A2HptF)
 Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
 Resistor Array 603 10k | 2x | 0,2€ | Mouser, ...
 Transistor MMBT2222 | 2x | 0,2€ | Mouser, ... | need for programming, NPN Type
-Capacitor 0805 | 3x | 0,2€ | Mouser, Digikey , ... | Various values : schematics
-Inducator 2.2uH | 1x | 0,2€ | Mouser, Digikey , ... | NRH2412T2R2MNGH
-3V3 Step Down Converter | 1x | 1,2€ | Mouser, Digikey , ... | LM3671
-Reistor 300Ohm 0805 | 1x | 0,2€ | Mouser, Digikey , ... | Basic Pin Protection 
-SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, Digikey , ... | Level Shifter
+Capacitor 0805 | 3x | 0,2€ | Mouser, ... | Various values : schematics
+Inducator 2.2uH | 1x | 0,2€ | Mouser, ... | NRH2412T2R2MNGH
+3V3 Step Down Converter | 1x | 1,2€ | Mouser, ... | LM3671
+Reistor 300Ohm 0805 | 1x | 0,2€ | Mouser, ... | Basic Pin Protection 
+SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | Level Shifter
 Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi) | MCU & Reset User Input
 IR Receiver | 1x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/4000184301216.html?spm=a2g0o.productlist.0.0.724b5981TB06ev&algo_pvid=77930a48-2919-4032-8365-519159e4dc8a&algo_exp_id=77930a48-2919-4032-8365-519159e4dc8a-17&pdp_ext_f=%7B%22sku_id%22%3A%2210000000677331106%22%7D&pdp_pi=-1%3B0.96%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch) |IR Control Version
 
-Prices are approx.
-
-https://amzn.to/3A2HptF
+Prices are approx. Affilates Links on Amazon and Dirty Cheap
 
 # Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
