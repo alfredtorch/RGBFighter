@@ -37,10 +37,12 @@ Inspirations from Adafruit, Sparkfun
 
 # Accessories
 * USB Power Injector to connect to the last pixel
-* Magnetic Tape
 * Panel Storage
 * Mounting Plates for Panels
 
+# Use Cases
+* PAR Light
+* Magnetic Tape
 ---
 
 # Licence
