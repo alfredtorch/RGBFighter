@@ -45,7 +45,7 @@ IR Receiver | 2x | 0,2€ | Mouser, ... |
 <img src="images/LaserParts.jpg?raw=true" align="center">
 <img src="images/8PowerRail.jpg?raw=true" align="center">
 
-# Use Cases & First Steps
+# First Steps & Ideas
 
 ** Soon updates for Hardware & Software ***
 
