@@ -23,8 +23,9 @@ Designed in Eagle, in a messy way! Sorry
 
 Part Name | Quantity | Price | Supply Link | Remarks 
 --- | --- | --- | --- | ---
-ESP-01 | 1x | 2€ | Aliexpress
-CP2104 USB Controller | 1x | 3€ | Mouser, ... | Alternative ESP-01 Flasher
+Board RGBFighter | 1 | 
+ESP-01 MCU | 1x | 2€ | [Amazon](https://amzn.to/3qxXip7) | The brain
+CP2104 USB Controller | 1x | 3€ | Mouser, ... | Progamming alternative [ESP-01 Flasher](https://amzn.to/3A2HptF)
 Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
 Resistor Array 10k | 2x | 0,2€ | Mouser, ...
 Transistor NPN MMBT2222 | 2x | 0,2€ | Mouser, ... |
@@ -34,8 +35,10 @@ LM3671 | 2x | 0,2€ | Mouser, ... | 3V3 Step Down Converter
 Reistor 300Ohm | 2x | 0,2€ | Mouser, ... | 
 SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | Level Shifter
 
-Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi)
+Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi) |
 IR Receiver | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/4000184301216.html?spm=a2g0o.productlist.0.0.724b5981TB06ev&algo_pvid=77930a48-2919-4032-8365-519159e4dc8a&algo_exp_id=77930a48-2919-4032-8365-519159e4dc8a-17&pdp_ext_f=%7B%22sku_id%22%3A%2210000000677331106%22%7D&pdp_pi=-1%3B0.96%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch) | 
+
+https://amzn.to/3A2HptF
 
 # Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
