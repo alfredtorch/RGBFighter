@@ -12,17 +12,28 @@ Only a power bank and a smartphone are needed and you are ready to go with your 
 * [WLED](https://github.com/Aircoookie/WLED "WLED's Github page") compatible
 * Inspirations from Adafruit, Sparkfun and many others
 
-Designed in Eagle, in a messy way! Sorry!
 
 <img src="images/RGBFighterFamily.jpg?raw=true">
 
-# PCB Layout
+# PCB 
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
+
 
 # Hardware
 
 At the moment I have no possibility for a larger production and distribution. Of course, I am ready for any cooperation to industrialize the production. Happy to get any proposition.
+
+## Design Files
+
+Designed in Eagle, in a messy way! Sorry! The related files are available under /Hardware.
+Name | Description 
+--- | ---
+ButtonPanel | Panel and Button
+ButtonStrip | Strip and Button
+IR | Strip and IR Receiver
+PowerRail | Power for 8 Strips
+PowerDistributorX30 | 5 Ports XT-30 Connector
 
 ## For DIY'er:
 All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
@@ -55,7 +66,7 @@ Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
 
 # Accessories
 
-Most of these parts can be laser cutted. The related files are available under : Hardware/RGBFighterLaserParts.dxf
+Most of these parts can be laser cutted. The related files are available under Hardware/RGBFighterLaserParts.dxf
 
 <img src="images/StorageBox.jpg?raw=true" align="center">
 <img src="images/USBPowerInjector.jpg?raw=true" align="center">
@@ -79,13 +90,13 @@ GPIO2 | RGB Output | Recomanded Output from WLED
 You can directly check the [How-To from WLED](https://kno.wled.ge/basics/install-binary/)
 
 ## Tutorials
-** Soon updates for Hardware & Software ***
+'Soon updates for Hardware & Software'
 
 <img src="images/8x8Projector.jpg?raw=true" align="center">
 <img src="images/PowerBank.jpg?raw=true" align="center">
 <img src="images/MagneticStrip.jpg?raw=true" align="center">
 
-Servo/Electro-Dipped
+Servo, Electro-Dipped, ...
 
 ---
 
