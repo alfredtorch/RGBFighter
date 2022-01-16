@@ -64,6 +64,14 @@ Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
 <img src="images/IrControl.jpg?raw=true" align="center">
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
+# History and Evaluation
+
+## 🔍 Development Phase
+ToDo | Remarks
+Easy Boards | Design boards without programming chip but with easy to solder buttons and voltage converter 
+Documentation | Improve the transfer of knowledge
+Big production | Looking forward to have some input, help to release it massivly, if wanted.
+
 # 🛒 Accessories
 
 Most of these parts can be laser cutted. The related files are available under Hardware/RGBFighterLaserParts.dxf
