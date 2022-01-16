@@ -15,7 +15,7 @@ Only a power bank and a smartphone are needed and you're good to go with your mo
 
 <img src="images/RGBFighterFamily.jpg?raw=true">
 
-# PCB 
+# ⚡️PCB 
 <img src="images/BottomBoard.jpg?raw=true" align="center">
 <img src="images/TopBoard.jpg?raw=true" align="center">
 
@@ -39,21 +39,21 @@ PowerDistributorX30 | 5 Ports XT-30 Connector
 All you need are steady hands for the soldering part, specially the QFN. A reflow or hot plate is suggested.
 The thickness of the board should be 1,2mm in order to sold the vertical USB firmly. The parts can be easily ordered from the common suppliers.
 
-## BOM
+## 💰BOM
 
 Part Name | Quantity | Price | Supply Link | Notes 
 --- | --- | --- | --- | ---
 Board RGBFighter | 1 | 0,02€ | [DirtyCheapPCB](https://dirtypcbs.com/store/pcbs/buy/108056/rgborder10x10january2019-zip) | Panelised Design files of Panel-Strip-USB Versions
-ESP-01 MCU | 1x | 2€ | [Amazon](https://amzn.to/3qxXip7) | The brain
+ESP-01 MCU | 1x | 2€ | [Amazon](https://amzn.to/3qxXip7) | The brain with Wifi!
 CP2104 USB Controller | 1x | 3€ | Mouser, ... | need for progamming : alternative [ESP-01 Flasher](https://amzn.to/3A2HptF)
 Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
-Resistor Array 603 10k | 2x | 0,2€ | Mouser, ...
+Resistor Array 603 10k | 2x | 0,2€ | Mouser, ... | Pull-up registors for programming and normal operation
 Transistor MMBT2222 | 2x | 0,2€ | Mouser, ... | need for programming, NPN Type
 Capacitor 0805 | 3x | 0,2€ | Mouser, ... | Various values : schematics
 Inducator 2.2uH | 1x | 0,2€ | Mouser, ... | NRH2412T2R2MNGH
 3V3 Step Down Converter | 1x | 1,2€ | Mouser, ... | LM3671
-Reistor 300Ohm 0805 | 1x | 0,2€ | Mouser, ... | Basic Pin Protection 
-SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | Level Shifter
+Reistor 300Ohm 0805 | 1x | 0,2€ | Mouser, ... | basic pin protection 
+Level Shifter SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | for the right Voltage on the Data bus
 Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi) | MCU & Reset User Input
 IR Receiver | 1x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/4000184301216.html?spm=a2g0o.productlist.0.0.724b5981TB06ev&algo_pvid=77930a48-2919-4032-8365-519159e4dc8a&algo_exp_id=77930a48-2919-4032-8365-519159e4dc8a-17&pdp_ext_f=%7B%22sku_id%22%3A%2210000000677331106%22%7D&pdp_pi=-1%3B0.96%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch) |IR Control Version
 
@@ -64,10 +64,14 @@ Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
 <img src="images/IrControl.jpg?raw=true" align="center">
 <img src="images/MatrixBuddy.jpg?raw=true" align="center">
 
-# History and Evaluation
+# 📖 History and Evaluation
+
+It started longtime ago when I wanted an easy way to drive my pixels. First pcb version was sended to fabrication in july 2016. 
+Since the project evolved into something more advanced and more mature!
 
 ## 🔍 Development Phase
 ToDo | Remarks
+--- | --- 
 Easy Boards | Design boards without programming chip but with easy to solder buttons and voltage converter 
 Documentation | Improve the transfer of knowledge
 Big production | Looking forward to have some input, help to release it massivly, if wanted.
