@@ -57,7 +57,10 @@ Level Shifter SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | for the right Voltag
 Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi) | MCU & Reset User Input
 IR Receiver | 1x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/4000184301216.html?spm=a2g0o.productlist.0.0.724b5981TB06ev&algo_pvid=77930a48-2919-4032-8365-519159e4dc8a&algo_exp_id=77930a48-2919-4032-8365-519159e4dc8a-17&pdp_ext_f=%7B%22sku_id%22%3A%2210000000677331106%22%7D&pdp_pi=-1%3B0.96%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch) |IR Control Version
 
-Prices are approx. Affiliates links on Amazon and Dirty Cheap PCB.
+🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you ❤️
+<p align="center">
+<img src="https://user-images.githubusercontent.com/38537119/155808479-0642d7e2-f94d-4171-adef-1f9d71b3f145.png"  width="320">
+</p>
 
 # 🎆 Versions
 <img src="images/OneButton.jpg?raw=true" align="center">
