@@ -45,8 +45,8 @@ Part Name | Quantity | Price | Supply Link | Notes
 --- | --- | --- | --- | ---
 Board RGBFighter | 1 | 0,02€ | [DirtyCheapPCB](https://dirtypcbs.com/store/pcbs/buy/108056/rgborder10x10january2019-zip) | Panelised Design files of Panel-Strip-USB Versions
 ESP-01 MCU | 1x | 2€ | [Amazon](https://amzn.to/3qxXip7) | The brain with Wifi!
-CP2104 USB Controller | 1x | 3€ | Mouser, ... | need for progamming : alternative [ESP-01 Flasher](https://amzn.to/3A2HptF)
-Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://de.aliexpress.com/item/32763426569.html?spm=a2g0o.productlist.0.0.311216d7spMSH2&algo_pvid=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a&algo_exp_id=98ad0ae0-8dc1-4f57-a2f5-b4d20632117a-0&pdp_ext_f=%7B%22sku_id%22%3A%2262079415830%22%7D&pdp_pi=-1%3B1.05%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch)
+CP2104 USB Controller | 1x | 3€ | Mouser, ... | need for progamming : alternative [ESP-01 Flasher Amazon](https://amzn.to/3A2HptF) - [Aliexpress](https://s.click.aliexpress.com/e/_9JcISN)
+Micro USB Vertical | 1x | 0,5€ | [Aliexpress](https://s.click.aliexpress.com/e/_AaeVzr)
 Resistor Array 603 10k | 2x | 0,2€ | Mouser, ... | Pull-up registors for programming and normal operation
 Transistor MMBT2222 | 2x | 0,2€ | Mouser, ... | need for programming, NPN Type
 Capacitor 0805 | 3x | 0,2€ | Mouser, ... | Various values : schematics
@@ -54,8 +54,8 @@ Inducator 2.2uH | 1x | 0,2€ | Mouser, ... | NRH2412T2R2MNGH
 3V3 Step Down Converter | 1x | 1,2€ | Mouser, ... | LM3671
 Reistor 300Ohm 0805 | 1x | 0,2€ | Mouser, ... | basic pin protection 
 Level Shifter SN74LVC1T45DBV  | 1x | 0,2€ | Mouser, ... | for the right Voltage on the Data bus
-Button G71Y | 2x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/32696378346.html?gatewayAdapt=glo2deu&spm=a2g0o.9042311.0.0.27424c4dxoYQAi) | MCU & Reset User Input
-IR Receiver | 1x | 0,2€ | [Aliexpress](https://de.aliexpress.com/item/4000184301216.html?spm=a2g0o.productlist.0.0.724b5981TB06ev&algo_pvid=77930a48-2919-4032-8365-519159e4dc8a&algo_exp_id=77930a48-2919-4032-8365-519159e4dc8a-17&pdp_ext_f=%7B%22sku_id%22%3A%2210000000677331106%22%7D&pdp_pi=-1%3B0.96%3B-1%3B-1%40salePrice%3BEUR%3Bsearch-mainSearch) |IR Control Version
+Button G71Y | 2x | 0,2€ | [Aliexpress](https://s.click.aliexpress.com/e/_A68Ds9) | MCU & Reset User Input
+IR Receiver | 1x | 0,2€ | [Aliexpress](https://s.click.aliexpress.com/e/_A7jhiZ) |IR Control Version
 
 🙏 Please if you need to shop for parts, it would be great that you use the supply links below. As they are affilated, you're supporting me directly to continue to deliver new projects to the community! Thank you ❤️
 <p align="center">
