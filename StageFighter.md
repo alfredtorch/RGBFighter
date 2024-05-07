@@ -1,22 +1,35 @@
-
-# Compile Settings
+# Programming & Compile Settings
+# Integrate RGBFighter Definitions in your PlatformIO
 1) Go to https://kno.wled.ge/advanced/compiling-wled/ and follow the steps needed to create your own binary.
 2) Once done, rename your plaformio.ini to plaformio_BCK.ini in your WLED Folder.
 3) Download CompileSettings/Platformio_RGBFighter.ini and paste it in your WLED Folder
 4) Recompile for from this repositoryand open in your IDE Environement (Platformio compatible).
 Rename your current Pl
+# Re
 
 # First-Use
 1) Connect your leds to your setup
-The most typical setup is to use 12V 
-2) 
-3) Connect your Power Supply
+
+RGBFighter is intented to use with 12V LED Pixel Strips with one data pin (no clock) and two for Positive-Negative.
+There are two option to connect the board to the strips.
+- Screw Terminal : with a screw driver (2mm) you can place the 3 wires or Cable Guard (from right to left : + / Data / -)
+- Preconfected cable connector
+Take care about polarity. You can use a DMM to double check (voltage and continuity).
+
+2) Connect your Power Supply
+Depending on your amount of pixels, you need to select the right supply capable enough voltage. https://wled-calculator.github.io
+Example:
+4 led strip each 5 meter long 30px/m draws for maximum brightness around 8 amp (exceeding device dimensions).
+
 - USB-C (Check the label rating on your power supply if it can deliver the requested voltage
 - DC Barrel with Pin Positive 2,1 mm
 - Screw Terminal Adaptor
 - Solder your own XT30 Connector!
 
-3) df
+3) Wifi or Ethernet
+
+Think to double check : 
+  
 
 # Components
 - Temperature Sensor : DS18B20 for internal enclosure monitoring
