@@ -1,12 +1,3 @@
-# Programming & Compile Settings
-# Integrate RGBFighter Definitions in your PlatformIO
-1) Go to https://kno.wled.ge/advanced/compiling-wled/ and follow the steps needed to create your own binary.
-2) Once done, rename your plaformio.ini to plaformio_BCK.ini in your WLED Folder.
-3) Download CompileSettings/Platformio_RGBFighter.ini and paste it in your WLED Folder
-4) Recompile for from this repositoryand open in your IDE Environement (Platformio compatible).
-Rename your current Pl
-# Re
-
 # First-Use
 1) Connect your leds to your setup
 
@@ -29,22 +20,21 @@ Example:
 3) Wifi or Ethernet
 
 Think to double check : 
-  
 
-# Components
-- Temperature Sensor : DS18B20 for internal enclosure monitoring
-- Level Shifter : 74HCT245DW with 200Ohm resistance on each output
-- DCDC Converter : ME3116 (max Voltage 40V)
-- USB-C PD Trigger : IP2721 with fixed voltage set (max Voltage 30V)
+# Programming & Compile Settings
+## Integrate RGBFighter Definitions in your PlatformIO
+1) Go to https://kno.wled.ge/advanced/compiling-wled/ and follow the steps needed to create your own binary.
+2) Once done, rename your plaformio.ini to plaformio_BCK.ini in your WLED Folder.
+3) Download CompileSettings/Platformio_RGBFighter.ini and paste it in your WLED Folder
+4) Recompile for from this repositoryand open in your IDE Environement (Platformio compatible).
+OTA for upload
 
-# Pinout
-Pin | Description | Pin | Description
---- | --- | --- | ---
-LED D1 | IO14 | LED D2 | IO15
-LED D3 | IO17 | LED D4 | IO13
-Voltage | IO35 | Temperature | IO02
+## Physical progamming
+Flash device not yet available.
+1) Dissamble your StageFighter and remove the front plate and all the wires attached to it.
+2) Remove the shield with level shifher and place 
 
-# Poweer Input
+# Power Input
 ## Voltage Selection
 The XT30 allows the user to deliver voltage up to 30V to its strips. Often Pixels like the popular WS2815 relys on 12V.
 This power can be sourced by 
@@ -59,6 +49,19 @@ Vin	| R2 Ohms	| R3 Ohms
 20V |	1000	| 170
 12V	| 1000	| 300
 5V	| 1000	| 1200
+
+# Pinout
+Pin | Description | Pin | Description
+--- | --- | --- | ---
+LED D1 | IO14 | LED D2 | IO15
+LED D3 | IO17 | LED D4 | IO13
+Voltage | IO35 | Temperature | IO02
+
+# Components
+- Temperature Sensor : DS18B20 for internal enclosure monitoring
+- Level Shifter : 74HCT245DW with 200Ohm resistance on each output
+- DCDC Converter : ME3116 (max Voltage 40V)
+- USB-C PD Trigger : IP2721 with fixed voltage set (max Voltage 30V)
 
 # Disclaimer and Warranty Information
 
