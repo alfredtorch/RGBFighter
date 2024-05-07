@@ -64,6 +64,8 @@ Voltage | IO35 | Temperature | IO02
 - DCDC Converter : ME3116 (max Voltage 40V)
 - USB-C PD Trigger : IP2721 with fixed voltage set (max Voltage 30V)
 
+# Version & Development Roadmap
+Design Issues: Reset Button
 <img src="https://github.com/alfredtorch/RGBFighter/assets/38537119/d63631b6-a65c-419a-85b1-2c38ca4941f8)" align="center" width="800px">
 
 # Disclaimer and Warranty Information
