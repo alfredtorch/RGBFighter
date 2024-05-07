@@ -1,6 +1,5 @@
 # First-Use
 1) Connect your leds to your setup
-
 RGBFighter is intented to use with 12V LED Pixel Strips with one data pin (no clock) and two for Positive-Negative.
 There are two option to connect the board to the strips.
 - Screw Terminal : with a screw driver (2mm) you can place the 3 wires or Cable Guard (from right to left : + / Data / -)
@@ -30,9 +29,11 @@ Think to double check :
 OTA for upload
 
 ## Physical progamming
-Flash device not yet available.
+
 1) Dissamble your StageFighter and remove the front plate and all the wires attached to it.
-2) Remove the shield with level shifher and place 
+2) Remove the shield with level shifher and place
+<img width="400" alt="image" src="https://github.com/alfredtorch/RGBFighter/assets/38537119/994f9a3d-ce73-43d7-885c-54849e86dcc2">
+Flash device not yet available.
 
 # Power Input
 ## Voltage Selection
@@ -62,6 +63,8 @@ Voltage | IO35 | Temperature | IO02
 - Level Shifter : 74HCT245DW with 200Ohm resistance on each output
 - DCDC Converter : ME3116 (max Voltage 40V)
 - USB-C PD Trigger : IP2721 with fixed voltage set (max Voltage 30V)
+
+<img src="https://github.com/alfredtorch/RGBFighter/assets/38537119/d63631b6-a65c-419a-85b1-2c38ca4941f8)" align="center" width="800px">
 
 # Disclaimer and Warranty Information
 
