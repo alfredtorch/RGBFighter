@@ -30,8 +30,9 @@ Double-check the ratings of your power supply, especially when using USB-C PD to
 ## Physical progamming
 1) Disassemble your StageFighter and remove the front plate and all wires attached to it.
 2) Remove the shield with the level shifter and place the Flash Device.
-<img width="400" alt="image" src="https://github.com/alfredtorch/RGBFighter/assets/38537119/994f9a3d-ce73-43d7-885c-54849e86dcc2">
-Flash device is not yet available.
+<img width="400" align="center" alt="image" src="https://github.com/alfredtorch/RGBFighter/assets/38537119/994f9a3d-ce73-43d7-885c-54849e86dcc2">
+
+Flash device is not yet available on Tindie.
 
 # Power Input
 ## Voltage Selection
