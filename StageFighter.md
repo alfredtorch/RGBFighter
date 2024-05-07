@@ -10,7 +10,7 @@ Take care about polarity. You can use a DMM to double check (voltage and continu
 2) Connect your Power Supply
 Depending on your amount of pixels, you need to select the right supply capable enough voltage. https://wled-calculator.github.io
 Example:
-4 led strip each 5 meter long 30px/m draws for maximum brightness around 8 amp (exceeding device dimensions).
+4 led strip each 5 meter long 30px/m draws for maximum brightness around 8 amp (exceeding device specification). In that case a separate power injection should be investigated. Extra layer of safety: isolated protected led outputs & audio input
 
 - USB-C (Check the label rating on your power supply if it can deliver the requested voltage
 - DC Barrel with Pin Positive 2,1 mm
