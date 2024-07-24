@@ -56,6 +56,15 @@ LED D1 | IO14 | LED D2 | IO15
 LED D3 | IO17 | LED D4 | IO13
 Voltage | IO35 | Temperature | IO02
 
+# Screenshots
+<p align="center">
+<img width="414" alt="image" src="https://github.com/user-attachments/assets/ea154ab8-46f6-4474-91d6-c6d62deef15a">
+<br>
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/9bfa872e-36bf-4cfb-9213-eee87ca6a54c">
+<br>
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/b0d17ddc-19ed-4621-91e2-c626a665fda6">
+</p>
+
 # Components
 - Temperature Sensor : DS18B20 for internal enclosure monitoring
 - Level Shifter : 74HCT245DW with 200Ohm resistance on each output
